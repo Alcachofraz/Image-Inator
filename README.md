@@ -42,3 +42,11 @@ pip install opencv-contrib-python
 
 It's important that you install the packages in this order, because realesgran has a tendency to replace both Torch and OpenCV currently installed versions.
 
+Lastly, create a file in the root directory named ".env". Inside, write the following:
+
+```
+TOKEN=YOUR_DISCORD_BOT_TOKEN
+PIPELINE_TOKEN=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
+```
+
+YOUR_DISCORD_BOT_TOKEN being the token given to you in the Discord Developer Portal, and PIPELINE_TOKEN being your Hugging Faces token which you can get (here)[https://huggingface.co/docs/hub/security-tokens].
