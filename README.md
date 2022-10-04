@@ -23,8 +23,10 @@ Here are some examples of images generated with the text to image pipeline, and 
 
 ---
 
-### /inator beautiful open kitchen in the style of elena of avalor overlooking aerial wide angle view of a solarpunk vibrant city with greenery, interior architecture, kitchen, eating space, rendered in octane, in the style of Luc Schuiten, craig mullins, solarpunk in deviantart, photorealistic, highly detailed, Vincent Callebaut, elena of avalor, highly detailed --wallpaper
-![beautiful_open_kitchen_in_the_style_of_elena_of_avalor_overlooking_aerial_wide_angle_view_of_a_solarpunk_vibrant_city_with_greenery_interior_architecture_kitchen_eating_space_rendered_in_octane_in_the_style_of_Luc_Sc](https://user-images.githubusercontent.com/75852333/193947227-fa4129b2-a6f8-4cdb-9735-d1fd5457aecb.png)
+### /inator a wholesome animation key shot of a band behemoth performing on stage, medium shot, studio ghibli, pixar and disney animation, 3d, sharp, rendered in unreal engine 5, anime key art by greg rutkowski, bloom, dramatic lighting
+![a_wholesome_animation_key_shot_of_a_band_behemoth_performing_on_stage_medium_shot_studio_ghibli_pixar_and_disney_animation_3d_sharp_rendered_in_unreal_engine_5_anime_key_art_by_greg_rutkowski_bloom_dramatic_lighting](https://user-images.githubusercontent.com/75852333/193949259-839d0cce-1b73-4a1f-976b-3cb8a5a0c8be.png)
+
+
 
 
 ## Setup
