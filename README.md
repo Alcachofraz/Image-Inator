@@ -19,7 +19,7 @@ Here are some examples of images generated with the text to image pipeline, and 
 
 ## Setup
 
-First of all, for better performing inferences, a high-memory (>= 10 GB) NVIDIA GPU is advised. Ensure you have installed the most recent drivers and CUDA toolkit. Then, this version of the bot requires > 3.8 Python. Now let's install some dependencies!
+First of all, for better performing inferences, a high-memory (>= 10 GB) NVIDIA GPU is advised. Make sure you have installed the most recent drivers and CUDA toolkit. Then, this version of the bot requires > 3.8 Python. Now let's install some dependencies!
 
 ```
 pip install py-cord
