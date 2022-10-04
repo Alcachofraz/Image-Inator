@@ -46,7 +46,7 @@ Lastly, create a file in the root directory named ".env". Inside, write the foll
 
 ```
 TOKEN=YOUR_DISCORD_BOT_TOKEN
-PIPELINE_TOKEN=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
+PIPELINE_TOKEN=YOUR_PIPELINE_TOKEN
 ```
 
-YOUR_DISCORD_BOT_TOKEN being the token given to you in the Discord Developer Portal, and PIPELINE_TOKEN being your Hugging Faces token which you can get [here](https://huggingface.co/docs/hub/security-tokens).
+YOUR_DISCORD_BOT_TOKEN being the token given to you in the Discord Developer Portal, and YOUR_PIPELINE_TOKEN being your Hugging Faces token which you can get [here](https://huggingface.co/docs/hub/security-tokens).
