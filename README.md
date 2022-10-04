@@ -14,8 +14,8 @@ Here are some examples of images generated with the text to image pipeline, and 
 ### /inator dark and terrifying house living room interior overview design, haunting creepy demon is standing in the corner of the room, 8K, ultra wide angle, higly detailed --wallpaper
 ![dark_and_terrifying_horror_house_living_room_interior_overview_design_demon_with_red_eyes_is_standing_in_the_corner_Moebius_Greg_Rutkowski_Zabrocki_Karlkka_Jayison_Devadas_Phuoc_Quan_trending_on_Artstation_8K_ultra_w](https://user-images.githubusercontent.com/75852333/193911347-d47713c7-9775-40d9-a041-77814f5dac5d.png)
 
-
-
+### /inator temple in ruines, forest, stairs, columns, cinematic, detailed, atmospheric, epic, concept art, Matte painting, background, mist, photo-realistic, concept art, volumetric light, cinematic epic, rule of thirds, octane render, 8k, corona render, movie concept art, octane render, cinematic, trending on artstation, movie concept art, cinematic composition, ultra-detailed, realistic, hyper-realistic, volumetric lighting, 8k
+![temple_in_ruines_forest_stairs_columns_cinematic_detailed_atmospheric_epic_concept_art_Matte_painting_background_mist_photo-realistic_concept_art_volumetric_light_cinematic_epic_rule_of_thirds_octane_render_8k_corona](https://user-images.githubusercontent.com/75852333/193912762-1d768470-8279-4081-bca6-9114ae3fd0e9.png)
 
 ## Setup
 
