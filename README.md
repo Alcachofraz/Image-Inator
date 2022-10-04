@@ -6,13 +6,15 @@ This is a Doofenshmirtz inspired Discord bot that takes advantage of the open so
 
 The users have the ability to generate a grid of sample images as response to their prompt, and the bot will display a grid of buttons, each one respective to their sampel image, with the purpose of starting the upscaling process. The upscaling process will resume the denoising process for the sample image, as well as upscale the final result, using one of the upsampling models available.
 
-Here's an example of an image generate with the command "/inator a city on an island floating in the sky with clouds in the background, digital art, detailed, 4k --seed 0", and upscaled with RealESRGAN.
+Here's an example of an image generated with the text to image pipeline, and upscaled with RealESRGAN.
+
+#### /inator a city on an island floating in the sky with clouds in the background, digital art, detailed, 4k --seed 0
 
 ![upscaled_realesrgan](https://user-images.githubusercontent.com/75852333/193890780-5c0e6340-e3f7-4fd0-abd0-5e8b2e693393.png)
 
 ## Setup
 
-First of all, for better performing inferences, a high-memory (>= 10 GB) NVIDIA GPU is advised. Ensure you have isntalled the most recent drivers and CUDA toolkit. Then, this version of the bot requires > 3.8 Python. Now let's install some dependencies!
+First of all, for better performing inferences, a high-memory (>= 10 GB) NVIDIA GPU is advised. Ensure you have installed the most recent drivers and CUDA toolkit. Then, this version of the bot requires > 3.8 Python. Now let's install some dependencies!
 
 ```
 pip install py-cord
