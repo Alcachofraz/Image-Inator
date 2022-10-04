@@ -1,0 +1,21 @@
+sudo apt update && sudo apt upgrade -y
+sudo apt install python3 python3-dev python3-venv
+sudo apt-get install wget
+wget https://bootstrap.pypa.io/get-pip.py
+sudo python3 get-pip.py
+apt-get install ffmpeg libsm6 libxext6 -y
+
+pip install py-cord
+pip install python-dotenv
+pip install diffusers==0.3.0 transformers scipy ftfy
+pip install realesrgan
+
+CPU:
+pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu116https://download.pytorch.org/whl/cpu
+
+GPU:
+Install CUDA
+pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu116
+
+pip install Pillow
+pip install opencv-contrib-python
