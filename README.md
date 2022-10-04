@@ -6,16 +6,25 @@ This is a Doofenshmirtz inspired Discord bot that takes advantage of the open so
 
 The users have the ability to generate a grid of sample images as response to their prompt, and the bot will display a grid of buttons, each one respective to their sampel image, with the purpose of starting the upscaling process. The upscaling process will resume the denoising process for the sample image, as well as upscale the final result, using one of the upsampling models available.
 
-Here are some examples of images generated with the text to image pipeline, and upscaled with RealESRGAN.
+Here are some examples of images generated with the text to image pipeline, and upscaled with RealESRGAN:
 
 ### /inator a city on an island floating in the sky with clouds in the background, digital art, detailed, 4k --seed 0
 ![upscaled_realesrgan](https://user-images.githubusercontent.com/75852333/193890780-5c0e6340-e3f7-4fd0-abd0-5e8b2e693393.png)
 
+---
+
 ### /inator dark and terrifying house living room interior overview design, haunting creepy demon is standing in the corner of the room, 8K, ultra wide angle, higly detailed --wallpaper
 ![dark_and_terrifying_horror_house_living_room_interior_overview_design_demon_with_red_eyes_is_standing_in_the_corner_Moebius_Greg_Rutkowski_Zabrocki_Karlkka_Jayison_Devadas_Phuoc_Quan_trending_on_Artstation_8K_ultra_w](https://user-images.githubusercontent.com/75852333/193911347-d47713c7-9775-40d9-a041-77814f5dac5d.png)
 
+---
+
 ### /inator temple in ruines, forest, stairs, columns, cinematic, detailed, atmospheric, epic, concept art, Matte painting, background, mist, photo-realistic, concept art, volumetric light, cinematic epic, rule of thirds, octane render, 8k, corona render, movie concept art, octane render, cinematic, trending on artstation, movie concept art, cinematic composition, ultra-detailed, realistic, hyper-realistic, volumetric lighting, 8k
 ![temple_in_ruines_forest_stairs_columns_cinematic_detailed_atmospheric_epic_concept_art_Matte_painting_background_mist_photo-realistic_concept_art_volumetric_light_cinematic_epic_rule_of_thirds_octane_render_8k_co (1)](https://user-images.githubusercontent.com/75852333/193936790-f19d2e4d-83ad-492b-b302-3581f1cb043a.png)
+
+---
+
+### /inator beautiful open kitchen in the style of elena of avalor overlooking aerial wide angle view of a solarpunk vibrant city with greenery, interior architecture, kitchen, eating space, rendered in octane, in the style of Luc Schuiten, craig mullins, solarpunk in deviantart, photorealistic, highly detailed, Vincent Callebaut, elena of avalor, highly detailed --wallpaper
+![beautiful_open_kitchen_in_the_style_of_elena_of_avalor_overlooking_aerial_wide_angle_view_of_a_solarpunk_vibrant_city_with_greenery_interior_architecture_kitchen_eating_space_rendered_in_octane_in_the_style_of_Luc_Sc](https://user-images.githubusercontent.com/75852333/193947227-fa4129b2-a6f8-4cdb-9735-d1fd5457aecb.png)
 
 
 ## Setup
