@@ -9,8 +9,13 @@ The users have the ability to generate a grid of sample images as response to th
 Here are some examples of images generated with the text to image pipeline, and upscaled with RealESRGAN.
 
 ### /inator a city on an island floating in the sky with clouds in the background, digital art, detailed, 4k --seed 0
-
 ![upscaled_realesrgan](https://user-images.githubusercontent.com/75852333/193890780-5c0e6340-e3f7-4fd0-abd0-5e8b2e693393.png)
+
+### /inator dark and terrifying house living room interior overview design, haunting creepy demon is standing in the corner of the room, 8K, ultra wide angle, higly detailed --wallpaper
+![dark_and_terrifying_horror_house_living_room_interior_overview_design_demon_with_red_eyes_is_standing_in_the_corner_Moebius_Greg_Rutkowski_Zabrocki_Karlkka_Jayison_Devadas_Phuoc_Quan_trending_on_Artstation_8K_ultra_w](https://user-images.githubusercontent.com/75852333/193911347-d47713c7-9775-40d9-a041-77814f5dac5d.png)
+
+
+
 
 ## Setup
 
