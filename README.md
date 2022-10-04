@@ -1,4 +1,4 @@
-# Gerador-De-Imagens-Inator
+# Image-Inator
 
 ## Introduction
 
