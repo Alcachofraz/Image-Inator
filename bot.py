@@ -126,13 +126,13 @@ This is the message the bot sends when "/inator config" is issued.
 """
 async def show_config(send):
     await send(
-        'steps  -->**  ' + str(config.steps) + '**' +
-        '\nsquare  -->**  ' + str(config.square_width) + ':' + str(config.square_height) + '**' +
-        '\nwallpaper  -->**  ' + str(config.wallpaper_width) + ':' +  str(config.wallpaper_height) + '**' +
-        '\nportrait_height  -->**  ' + str(config.portrait_width) + ':' + str(config.portrait_height) + '**' +
-        '\ngrid_size  -->**  ' + str(config.grid_size) + '**' +
-        '\nguidance_scale  -->**  ' + str(config.guidance_scale) + '**' +
-        '\nupscaling_model  -->**  ' + str(config.upscaling_model) + '**'
+        'steps   **' + str(config.steps) + '**' +
+        '\nsquare   **' + str(config.square_width) + ':' + str(config.square_height) + '**' +
+        '\nwallpaper   **' + str(config.wallpaper_width) + ':' +  str(config.wallpaper_height) + '**' +
+        '\nportrait   **' + str(config.portrait_width) + ':' + str(config.portrait_height) + '**' +
+        '\ngrid_size   **' + str(config.grid_size) + '**' +
+        '\nguidance_scale   **' + str(config.guidance_scale) + '**' +
+        '\nupscaling_model   **' + str(config.upscaling_model) + '**'
     )
 
 """
