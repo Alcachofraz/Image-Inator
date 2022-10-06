@@ -16,11 +16,15 @@ Here are some examples of images generated with the text to image pipeline, and 
 ### /inator dark and terrifying house living room interior overview design, haunting creepy demon is standing in the corner of the room, 8K, ultra wide angle, higly detailed --wallpaper
 ![dark_and_terrifying_horror_house_living_room_interior_overview_design_demon_with_red_eyes_is_standing_in_the_corner_Moebius_Greg_Rutkowski_Zabrocki_Karlkka_Jayison_Devadas_Phuoc_Quan_trending_on_Artstation_8K_ultra_w](https://user-images.githubusercontent.com/75852333/194189523-02b811e0-9d7a-4e3f-9452-7d979b6bd8b1.png)
 
-
 ---
 
 ### /inator temple in ruines, forest, stairs, columns, cinematic, detailed, atmospheric, epic, concept art, Matte painting, background, mist, photo-realistic, concept art, volumetric light, cinematic epic, rule of thirds, octane render, 8k, corona render, movie concept art, octane render, cinematic, trending on artstation, movie concept art, cinematic composition, ultra-detailed, realistic, hyper-realistic, volumetric lighting, 8k
 ![temple_in_ruines_forest_stairs_columns_cinematic_detailed_atmospheric_epic_concept_art_Matte_painting_background_mist_photo-realistic_concept_art_volumetric_light_cinematic_epic_rule_of_thirds_octane_render_8k_co (1)](https://user-images.githubusercontent.com/75852333/193936790-f19d2e4d-83ad-492b-b302-3581f1cb043a.png)
+
+---
+
+/inator tree house in the forest, atmospheric, hyper realistic, epic composition, cinematic, landscape vista photography by Carr Clifton & Galen Rowell, 16K resolution, Landscape veduta photo by Dustin Lefevre & tdraw, detailed landscape painting by Ivan Shishkin, DeviantArt, Flickr, rendered in Enscape, Miyazaki, Nausicaa Ghibli, Breath of The Wild, 4k detailed post processing, artstation, unreal engine
+![tree_house_in_the_forest_atmospheric_hyper_realistic_epic_composition_cinematic_landscape_vista_photography_by_Carr_Clifton__Galen_Rowell_16K_resolution_Landscape_veduta_photo_by_Dustin_Lefevre__tdraw_detailed_landsc](https://user-images.githubusercontent.com/75852333/194189909-a5645ceb-2ec1-4771-90d8-bd8fe2c36b3e.png)
 
 ---
 
