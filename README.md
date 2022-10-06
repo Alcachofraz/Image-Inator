@@ -23,15 +23,13 @@ Here are some examples of images generated with the text to image pipeline, and 
 
 ---
 
-/inator tree house in the forest, atmospheric, hyper realistic, epic composition, cinematic, landscape vista photography by Carr Clifton & Galen Rowell, 16K resolution, Landscape veduta photo by Dustin Lefevre & tdraw, detailed landscape painting by Ivan Shishkin, DeviantArt, Flickr, rendered in Enscape, Miyazaki, Nausicaa Ghibli, Breath of The Wild, 4k detailed post processing, artstation, unreal engine
-![tree_house_in_the_forest_atmospheric_hyper_realistic_epic_composition_cinematic_landscape_vista_photography_by_Carr_Clifton__Galen_Rowell_16K_resolution_Landscape_veduta_photo_by_Dustin_Lefevre__tdraw_detailed_landsc](https://user-images.githubusercontent.com/75852333/194189909-a5645ceb-2ec1-4771-90d8-bd8fe2c36b3e.png)
+/inator adorable little raindrop creature designed by Naoto Hattori, symmetrical, extremely cute, rainy, rainstorm, clouds, serene, blue color scheme, extremely intricate, ornate, hyperdetailed, hypermaximalist, hyperrealistic, volumetric lighting, octane render, ultra HD, 8k --portrait
+![adorable_little_raindrop_creature_designed_by_Naoto_Hattori_symmetrical_extremely_cute_rainy_rainstorm_clouds_serene_blue_color_scheme_extremely_intricate_ornate_hyperdetailed_hypermaximalist_hyperrealistic_volumetri](https://user-images.githubusercontent.com/75852333/194190449-900c4672-ded6-4dc5-8458-3a3f853a08b3.png)
 
 ---
 
-### /inator a wholesome animation key shot of a band behemoth performing on stage, medium shot, studio ghibli, pixar and disney animation, 3d, sharp, rendered in unreal engine 5, anime key art by greg rutkowski, bloom, dramatic lighting
-![a_wholesome_animation_key_shot_of_a_band_behemoth_performing_on_stage_medium_shot_studio_ghibli_pixar_and_disney_animation_3d_sharp_rendered_in_unreal_engine_5_anime_key_art_by_greg_rutkowski_bloom_dramatic_lighting](https://user-images.githubusercontent.com/75852333/193949259-839d0cce-1b73-4a1f-976b-3cb8a5a0c8be.png)
-
-
+/inator tree house in the forest, atmospheric, hyper realistic, epic composition, cinematic, landscape vista photography by Carr Clifton & Galen Rowell, 16K resolution, Landscape veduta photo by Dustin Lefevre & tdraw, detailed landscape painting by Ivan Shishkin, DeviantArt, Flickr, rendered in Enscape, Miyazaki, Nausicaa Ghibli, Breath of The Wild, 4k detailed post processing, artstation, unreal engine
+![tree_house_in_the_forest_atmospheric_hyper_realistic_epic_composition_cinematic_landscape_vista_photography_by_Carr_Clifton__Galen_Rowell_16K_resolution_Landscape_veduta_photo_by_Dustin_Lefevre__tdraw_detailed_landsc](https://user-images.githubusercontent.com/75852333/194189909-a5645ceb-2ec1-4771-90d8-bd8fe2c36b3e.png)
 
 
 ## Setup
