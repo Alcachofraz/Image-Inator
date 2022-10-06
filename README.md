@@ -8,7 +8,7 @@ The users have the ability to generate a grid of sample images as response to th
 
 Here are some examples of images generated with the text to image pipeline, and upscaled with RealESRGAN:
 
-### /inator a city on an island floating in the sky with clouds in the background, digital art, detailed, 4k --seed 0
+### /inator giant colossus, ultra wide angle, 8K resolution, breathtaking, cinematic, detailed, trending on artstation, rendered in unreal engine 5, dramatic lighting
 ![upscaled_realesrgan](https://user-images.githubusercontent.com/75852333/193890780-5c0e6340-e3f7-4fd0-abd0-5e8b2e693393.png)
 
 ---
@@ -23,12 +23,12 @@ Here are some examples of images generated with the text to image pipeline, and 
 
 ---
 
-/inator adorable little raindrop creature designed by Naoto Hattori, symmetrical, extremely cute, rainy, rainstorm, clouds, serene, blue color scheme, extremely intricate, ornate, hyperdetailed, hypermaximalist, hyperrealistic, volumetric lighting, octane render, ultra HD, 8k --portrait
+### /inator adorable little raindrop creature designed by Naoto Hattori, symmetrical, extremely cute, rainy, rainstorm, clouds, serene, blue color scheme, extremely intricate, ornate, hyperdetailed, hypermaximalist, hyperrealistic, volumetric lighting, octane render, ultra HD, 8k --portrait
 ![adorable_little_raindrop_creature_designed_by_Naoto_Hattori_symmetrical_extremely_cute_rainy_rainstorm_clouds_serene_blue_color_scheme_extremely_intricate_ornate_hyperdetailed_hypermaximalist_hyperrealistic_volumetri](https://user-images.githubusercontent.com/75852333/194190449-900c4672-ded6-4dc5-8458-3a3f853a08b3.png)
 
 ---
 
-/inator tree house in the forest, atmospheric, hyper realistic, epic composition, cinematic, landscape vista photography by Carr Clifton & Galen Rowell, 16K resolution, Landscape veduta photo by Dustin Lefevre & tdraw, detailed landscape painting by Ivan Shishkin, DeviantArt, Flickr, rendered in Enscape, Miyazaki, Nausicaa Ghibli, Breath of The Wild, 4k detailed post processing, artstation, unreal engine
+### /inator tree house in the forest, atmospheric, hyper realistic, epic composition, cinematic, landscape vista photography by Carr Clifton & Galen Rowell, 16K resolution, Landscape veduta photo by Dustin Lefevre & tdraw, detailed landscape painting by Ivan Shishkin, DeviantArt, Flickr, rendered in Enscape, Miyazaki, Nausicaa Ghibli, Breath of The Wild, 4k detailed post processing, artstation, unreal engine
 ![tree_house_in_the_forest_atmospheric_hyper_realistic_epic_composition_cinematic_landscape_vista_photography_by_Carr_Clifton__Galen_Rowell_16K_resolution_Landscape_veduta_photo_by_Dustin_Lefevre__tdraw_detailed_landsc](https://user-images.githubusercontent.com/75852333/194189909-a5645ceb-2ec1-4771-90d8-bd8fe2c36b3e.png)
 
 
