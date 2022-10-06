@@ -9,7 +9,7 @@ The users have the ability to generate a grid of sample images as response to th
 Here are some examples of images generated with the text to image pipeline, and upscaled with RealESRGAN:
 
 ### /inator giant colossus, ultra wide angle, 8K resolution, breathtaking, cinematic, detailed, trending on artstation, rendered in unreal engine 5, dramatic lighting
-![upscaled_realesrgan](https://user-images.githubusercontent.com/75852333/193890780-5c0e6340-e3f7-4fd0-abd0-5e8b2e693393.png)
+![giant_colossus_ultra_wide_angle_8K_resolution_breathtaking_cinematic_detailed_trending_on_artstation_rendered_in_unreal_engine_5_dramatic_lighting](https://user-images.githubusercontent.com/75852333/194192431-50c1f48a-fe76-4bdb-a2e2-9f0ad7bcd9b6.png)
 
 ---
 
